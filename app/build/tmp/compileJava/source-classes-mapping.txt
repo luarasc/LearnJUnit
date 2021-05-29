@@ -1,0 +1,10 @@
+br/ufpe/cin/emprel/stack/UnderFlowStackException.java
+ br.ufpe.cin.emprel.stack.UnderFlowStackException
+br/ufpe/cin/emprel/stack/StackADT.java
+ br.ufpe.cin.emprel.stack.StackADT
+br/ufpe/cin/emprel/stack/OverFlowStackException.java
+ br.ufpe.cin.emprel.stack.OverFlowStackException
+br/ufpe/cin/emprel/stack/App.java
+ br.ufpe.cin.emprel.stack.App
+br/ufpe/cin/emprel/stack/Stack.java
+ br.ufpe.cin.emprel.stack.Stack

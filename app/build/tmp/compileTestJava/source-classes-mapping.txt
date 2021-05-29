@@ -1,0 +1,4 @@
+br/ufpe/cin/emprel/stack/StackTest.java
+ br.ufpe.cin.emprel.stack.StackTest
+br/ufpe/cin/emprel/stack/AppTest.java
+ br.ufpe.cin.emprel.stack.AppTest
